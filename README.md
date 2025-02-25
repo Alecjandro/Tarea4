@@ -1,6 +1,6 @@
 # Tarea4
 
-###Crear proyecto de git local 
+Crear proyecto de git local 
 
 Clonar proyecto 
 
